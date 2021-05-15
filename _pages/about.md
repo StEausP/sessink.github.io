@@ -8,9 +8,11 @@ profile:
   align: right
   image: seb_bio_photo.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>206-543-1391</p>
+    <p>Applied Pysics Laboratory</p>
+    <p>University of Washington</p>
+    <p>1013 NE 40th Street</p>
+    <p>Seattle, WA 98105-6698</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
