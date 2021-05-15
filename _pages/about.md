@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+# description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: seb_bio_photo.jpeg
   address: >
     <p>206-543-1391</p>
-    <p>Applied Pysics Laboratory</p>
+    <p>Applied Physics Laboratory</p>
     <p>University of Washington</p>
     <p>1013 NE 40th Street</p>
     <p>Seattle, WA 98105-6698</p>
