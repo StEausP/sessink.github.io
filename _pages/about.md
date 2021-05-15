@@ -28,6 +28,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 INFO's!!
+
 Die news-section wird unter layouts/about.html zugesteuert. Die zugehörigen Inhalte sind als Liste unter _news abgelegt.
 
 selected publications (oder andere) wird über _includes/selected_papers.html zugesteuert. Die Inhalte dazu sind in _bibliography/papares.bib abgelegt.
