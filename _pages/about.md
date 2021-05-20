@@ -8,7 +8,6 @@ profile:
   align: right
   image: seb_bio_photo.jpeg
   address: >
-    <p>206-543-1391</p>
     <p>Applied Physics Laboratory</p>
     <p>University of Washington</p>
     <p>1013 NE 40th Street</p>
